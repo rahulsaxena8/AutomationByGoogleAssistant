@@ -1,6 +1,6 @@
 # AutomationByGoogleAssistant
 
-This is a basic home automation project with the help of which you can your home appliances from any part of the world with the help of iot.
+This is a basic home automation project with the help of which you can control your home appliances from any part of the world with the help of iot.
 The hardware and online services used in the project are as follows-
 
 (1)IFTTT(If this then that) platform.
