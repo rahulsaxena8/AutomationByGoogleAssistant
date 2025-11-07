@@ -14,10 +14,10 @@ For syncing google assistant with blynk app I have used a very helpful online pl
 Light Off:
 
 <p align="center">
-  <img src="" width="800">
+  <img src="Light-Off.png" width="800">
 
 Light On:
 
 <p align="center">
-  <img src="" width="800">
+  <img src="Light-On.png" width="800">
 
