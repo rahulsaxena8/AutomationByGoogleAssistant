@@ -10,3 +10,14 @@ The hardware and online services used in the project are as follows-
 
 With the help of Blynk app we can control the nodeMCU from any part of the world by uploading proper code into nodeMCU.
 For syncing google assistant with blynk app I have used a very helpful online platform called IFTTT with the help of which we can connect two applications to each other so that they can work together and do what a single application could'nt do on it's own. 
+
+Light Off:
+
+<p align="center">
+  <img src="" width="800">
+
+Light On:
+
+<p align="center">
+  <img src="" width="800">
+
